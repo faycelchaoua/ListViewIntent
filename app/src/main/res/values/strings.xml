@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListViewIntent</string>
+    <string name="questionActivity_name">QuestionActivity</string>
+
+    <!-- MainActivity -->
+    <string name="image_description">Image d\'item</string>
+    <string name="text_description">Office 365</string>
+    <string name="word">Word</string>
+    <string name="word_description">Editeur de texte</string>
+    <string name="excel">Excel</string>
+    <string name="excel_description">Tableur</string>
+    <string name="powerpoint">PowerPoint</string>
+    <string name="powerpoint_description">Logiciel de présentation</string>
+    <string name="outlook">Outlook</string>
+    <string name="outlook_description">Client de courrier électronique</string>
+
+    <!-- MainActivity : Messages from QuestionActivity -->
+    <string name="use_word">Vous utilisez Word.</string>
+    <string name="not_use_word">Vous n\'utilisez pas Word.</string>
+    <string name="use_excel">Vous utilisez Excel.</string>
+    <string name="not_use_excel">Vous n\'utilisez pas Excel.</string>
+    <string name="use_powerpoint">Vous utilisez PowerPoint.</string>
+    <string name="not_use_powerpoint">Vous n\'utilisez pas PowerPoint.</string>
+    <string name="use_outlook">Vous utilisez Outlook.</string>
+    <string name="not_use_outlook">Vous n\'utilisez pas Outlook.</string>
+
+    <!-- QuestionActivity -->
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="use">Utilisez-vous</string>
+    <string name="like">comme</string>
+
+
+</resources>
